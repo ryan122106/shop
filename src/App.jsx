@@ -1,5 +1,6 @@
 // App.jsx
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { Link as RouterLink } from "react-router-dom";
 import CustomAppBar from "./components/AppBar";
 import AddNewShop from "./pages/AddNewShop";
 import HomePage from "./pages/HomePage";
